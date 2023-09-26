@@ -18,14 +18,14 @@ Before running the script, make sure you have the following prerequisites instal
 
 2. Navigate to the project directory:
    
-   ```bash
+   
    cd directory-enumerator
 
 3. Create a file named wordlist.txt containing the list of directories you want to check, with each directory on a separate line.
 
 4. Run the script with the following command:
    
-   ```bash
+   
    python3 directory_enumerator.py <target_url>
 
    Replace <target_url> with the URL of the web server you want to check.
@@ -34,7 +34,7 @@ Before running the script, make sure you have the following prerequisites instal
 
 Suppose you have a wordlist.txt file with the following content:
 
-    ```bash
+    
     admin
     images
     scripts
@@ -42,7 +42,7 @@ Suppose you have a wordlist.txt file with the following content:
 
 Running the script with the command:
 
-    ```bash
+    
     python directory_enumerator.py http://example.com
 
 The script will send HTTP requests to the target server and report valid directories if they exist.
@@ -51,7 +51,7 @@ The script will send HTTP requests to the target server and report valid directo
 
 The script will print the valid directories found on the server, like this:
 
-    ```bash
+    
     Valid directory: http://example.com/admin
     Valid directory: http://example.com/images
 
