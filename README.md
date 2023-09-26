@@ -2,6 +2,8 @@
 
 Directory Enumerator is a simple Python script that checks the validity of directories on a web server by sending HTTP requests. It reads a list of directories from a file and checks if they exist on the target server.
 
+![Example run](https://raw.githubusercontent.com/onurcangnc/dir_enum/main/example_run.png)
+
 ## Prerequisites
 
 Before running the script, make sure you have the following prerequisites installed:
