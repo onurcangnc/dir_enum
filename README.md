@@ -2,17 +2,19 @@
 
 Directory Enumerator is a simple Python script that checks the validity of directories on a web server by sending HTTP requests. It reads a list of directories from a file and checks if they exist on the target server.
 
-**Disclaimer: Use this tool responsibly and at your own risk.**
+## Disclaimer
 
-This software is provided for educational and informational purposes only. The authors and contributors of this tool are not responsible for any misuse, damage, or legal consequences that may arise from its use. 
+**Use this tool responsibly and at your own risk.**
 
-You are solely responsible for ensuring that your use of this tool complies with all applicable laws and regulations. This tool should only be used on systems and resources for which you have explicit permission or legal authorization.
+- This software is intended solely for educational and informational purposes. The authors and contributors disclaim any liability for misuse, damage, or legal consequences arising from its use.
 
-Please review the [GPL](LICENSE) file for complete details regarding the software's licensing terms.
+- You are solely responsible for ensuring that your use of this tool complies with all applicable laws and regulations. Only employ this tool on systems and resources for which you possess explicit permission or legal authorization.
 
-Always use this tool in an ethical and responsible manner, respecting the privacy and security of others. The authors disclaim any liability for misuse or unauthorized use of this tool.
+- Please review the [GPL](LICENSE) file for comprehensive details on the software's licensing terms.
 
-By using this tool, you agree to accept all associated risks and responsibilities.
+- Always exercise ethical and responsible usage of this tool, respecting the privacy and security of others. The authors emphasize that they bear no responsibility for misuse or unauthorized usage of this tool.
+
+- By utilizing this tool, you acknowledge and accept all associated risks and responsibilities.
 
 
 ![Example run](https://raw.githubusercontent.com/onurcangnc/dir_enum/main/example_run.png)
